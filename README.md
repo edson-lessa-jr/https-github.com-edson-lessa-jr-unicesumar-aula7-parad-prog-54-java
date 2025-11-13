@@ -1,4 +1,4 @@
-# Projeto Sistema de Vendas (C++)
+# Projeto Sistema de Vendas Java
 
 ## Informações Acadêmicas
 
